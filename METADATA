@@ -1,0 +1,6 @@
+name: "Browser2"
+description: ""
+
+third_party {
+  license_type: NOTICE
+}
